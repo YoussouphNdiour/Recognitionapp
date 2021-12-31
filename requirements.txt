@@ -8,7 +8,7 @@ brotlipy==0.7.0
 cachetools==4.2.4
 certifi==2021.10.8
 click==8.0.3
-clyent==1.2.2
+clyent==1.2.1
 cmake==3.22.1
 conda-verify==3.4.2
 coverage==6.2
