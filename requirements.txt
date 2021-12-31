@@ -62,7 +62,6 @@ rsa==4.8
 scikit-image==0.18.3
 scikit-learn==1.0.1
 simplegeneric==0.8.1
-sip==4.19.13
 six==1.15.0
 Sphinx==4.2.0
 TBB==0.2
