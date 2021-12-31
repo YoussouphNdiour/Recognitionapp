@@ -64,7 +64,6 @@ scikit-learn==1.0.1
 simplegeneric==0.8.1
 six==1.15.0
 Sphinx==4.2.0
-TBB==0.2
 tensorboard==2.7.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
