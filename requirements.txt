@@ -25,7 +25,6 @@ flatbuffers==1.12
 fonttools==4.25.0
 gast==0.4.0
 glob2==0.7
-gmpy2==2.0.8
 google==3.0.0
 google-auth==2.3.3
 google-auth-oauthlib==0.4.6
