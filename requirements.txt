@@ -9,7 +9,6 @@ itsdangerous==2.0.1
 Jinja2==3.0.3
 joblib==1.1.0
 MarkupSafe==2.0.1
-numpy==1.19.5
 opencv-python==4.5.4.60
 pickleshare==0.7.5
 scikit-learn==1.0.1
