@@ -12,9 +12,7 @@ MarkupSafe==2.0.1
 numpy==1.19.5
 opencv-python==4.5.4.60
 pickleshare==0.7.5
-python-dotenv==0.19.2
 scikit-learn==1.0.1
 to-requirements.txt==1.1.5
-urllib3==1.26.7
 Werkzeug==2.0.2
 wincertstore==0.2
